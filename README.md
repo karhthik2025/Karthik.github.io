@@ -1,2 +1,11 @@
-# Karthik.github.io
-This is my portfolio
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Portfolio</title>
+</head>
+<body>
+<h1>Welcome to My Portfolio</h1>
+<p>This is my first website.</p>
+</body>
+</html>
